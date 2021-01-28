@@ -1,5 +1,6 @@
 # EasyCTFForBiginner
 ネットにあるCTFがむずすぎたので自分で自分が解けるくらいのCTFを作りました。<br>
+簡単なCTFで誘導付きで勉強ができるCTF欲しいぃ。<br>
 
 1.overflow<br>
 名前の通り。scanfの脆弱性を学べた。誘導付き。<br>
