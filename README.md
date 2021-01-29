@@ -1,5 +1,7 @@
 # EasyCTFForBiginner
+CTFとはCapture The Flagの略で、特定の文字をプログラムから探すゲームです。<br>
 ネットにあるCTFがむずすぎたので自分で自分が解けるくらいのCTFを作りました。<br>
+windows上でexeファイルを起動すればできます。<br>
 簡単なCTFで誘導付きで勉強ができるCTF欲しいぃ。<br>
 
 1.overflow<br>
