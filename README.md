@@ -1,7 +1,7 @@
 # CTF
 CTFとはCapture The Flagの略で、特定の文字をプログラムから探すゲームです。<br>
 ネットにあるCTFがむずすぎたので自分で自分が解けるくらいのCTFを作りました。<br>
-__windows__　上でexeファイルを起動して、FLAG＿から始まる文字列を探す感じです。<br>
+ __windows__ 上でexeファイルを起動して、FLAG＿から始まる文字列を探す感じです。<br>
 簡単なCTFで誘導付きで勉強ができるCTF欲しいぃ。<br>
 
 1.overflow<br>
