@@ -1,4 +1,4 @@
-# EasyCTFForBeginner
+# CTF
 CTFとはCapture The Flagの略で、特定の文字をプログラムから探すゲームです。<br>
 ネットにあるCTFがむずすぎたので自分で自分が解けるくらいのCTFを作りました。<br>
 windows上でexeファイルを起動して、FLAG＿から始まる文字列を探す感じです。<br>
