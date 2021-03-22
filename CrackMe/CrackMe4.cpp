@@ -31,8 +31,10 @@ void DebugSelf(char *argv)
 	STARTUPINFO si;
 
 	GetStartupInfo(&si);
-    MoveFile(argv,"Project7.exe");
-    CreateProcess(NULL,"Project7.exe 2", NULL, NULL, FALSE,
+    char cmd[100] = {};
+    strcat(cmd, argv);
+    strcat(cmd," 2");
+    CreateProcess(NULL,cmd, NULL, NULL, FALSE,
 		DEBUG_PROCESS, NULL, NULL, &si, &pi);
     
     DEBUG_EVENT de;
