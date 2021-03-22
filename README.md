@@ -55,5 +55,5 @@ TLSからint3をnopに書き換えるスレッドを実行、int3の例外処理
 3.5.　例外処理＆コンパイラによる最適化<br>
 SEHとVEHと、2つの例外処理があります。またCrackMe3はSEHの例外処理をアセンブラで書いているのに対して、こちらはコンパイラの機能を用いているため最適化されており非常に読みにくいです。
 
-4. SelfDebugging & Heaven's Gate & MultiThread
+4.SelfDebugging & Heaven's Gate & MultiThread
 SelfDebuggingはCreateProcessの引数の分岐やDebugActiveProcessStop。Heaven's GateはWinDbg64や64bitにコピー。MultiThreadは変数の参照から。
